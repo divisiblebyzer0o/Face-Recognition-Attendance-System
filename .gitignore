@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (biometric data)
+dataset/
+
+# Database
+attendance.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
